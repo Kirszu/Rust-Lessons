@@ -1,0 +1,6 @@
+[package]
+name = "lesson4-bottomup-triangle"
+version = "0.1.0"
+authors = ["Marcin Kirsz <marcinkirsz@wp.pl>"]
+
+[dependencies]
